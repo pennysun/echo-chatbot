@@ -14,8 +14,3 @@ maven:
 
 envs:
   _JAVA_OPTIONS: "-Xmx4096m -Xms4096m"
-
-line.bot:
-  channel-token: '1600817471'
-  channel-secret: '792cde9ef1b4e092ae4f082d607414a7'
-  handler.path: /callback
